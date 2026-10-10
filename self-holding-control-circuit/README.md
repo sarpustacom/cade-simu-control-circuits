@@ -1,0 +1,1 @@
+A basic self-holding (latching) control circuit designed and simulated using CADe SIMU. The circuit uses Start and Stop push buttons, a contactor coil, and an auxiliary contact to maintain the energized state after the Start button is released.
